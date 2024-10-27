@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isukaevu.github.io/sitemap_index.isukaevu
